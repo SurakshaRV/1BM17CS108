@@ -62,3 +62,9 @@ Python tools used for different Domains:
   * dnspython
   * Scapy
   
+8. IoT:
+  * numpy
+  * mysqldb
+  * opencv
+  * tkinter
+  * sockets
