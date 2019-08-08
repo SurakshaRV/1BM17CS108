@@ -1,0 +1,64 @@
+Differences betweeen python 2x and python 3x:
+  1. Division ooperator
+  2. print function
+  3. Unicode
+  4. xrange
+  5. Error handling
+  6. __future__ module
+  
+Tools to exercute python code:
+  1. Python IDLE
+  2. Command Prompt(after installing python in the system)
+  3. Atom
+  4. Sublime Text 3
+  5. Visual Studio Code
+  6. PyCharm
+  7. Spyder
+  8. Jupyter
+  9. Thonny
+  10. Vim 
+ 
+Python tools used for different Domains:
+
+1. Data Science:
+  * IPython
+  * GraphLab Create
+  * Pandas
+  * PuLP
+  * Matplotlib
+  * Spark
+  
+2. Cyber security:
+  * Requests
+  * Scapy
+  * Nmap
+  * Metasploit
+  * John the Ripper
+  
+3.Artificial Intelligence:
+  * Tensorflow
+  * Theano
+  * Keras
+  * Scikit-Learn
+  
+4. Hacking:
+  * Pulsar
+  * NetworkX
+  * NAPALM
+  
+5. WEB SCRAPING:
+  * Urllib2
+  * Requests
+  * BeautifulSoup
+  * Lxml
+  * selenium
+  
+6. Big Data:
+  * PySpark
+  * pandas
+  * Scikit-Learn
+  
+7. Network Programming:
+  * dnspython
+  * Scapy
+  
